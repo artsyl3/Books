@@ -11,7 +11,7 @@ function App() {
   }, []);
 
   return (
-<div />
+
 <div className="app">
       <h1>Reading Lissst</h1>
       <BookList />
