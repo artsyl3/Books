@@ -13,7 +13,7 @@ function App() {
   return (
 
 <div className="app">
-      <h1>Reading Lissstszzzzzzzzzz</h1>
+      <h1>Reading Lissstz</h1>
       <BookList />
       <BookCreate />
     </div>
